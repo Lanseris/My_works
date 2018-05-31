@@ -13,7 +13,7 @@ namespace TestGit
 
             Console.WriteLine("Hi");
             Console.ReadLine();
-            Console.WriteLine("Hi");
+            Console.WriteLine("newBranch");
         }
     }
 }
