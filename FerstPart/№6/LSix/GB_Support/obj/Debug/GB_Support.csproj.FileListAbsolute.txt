@@ -1,0 +1,12 @@
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\bin\Debug\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\bin\Debug\GB_Support.pdb
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\obj\Debug\GB_Support.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\obj\Debug\GB_Support.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\obj\Debug\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LSixHW\GB_Support\obj\Debug\GB_Support.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\bin\Debug\GB_Support.dll
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\bin\Debug\GB_Support.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\obj\Debug\GB_Support.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\obj\Debug\GB_Support.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\obj\Debug\GB_Support.dll
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\GB_Support\obj\Debug\GB_Support.pdb

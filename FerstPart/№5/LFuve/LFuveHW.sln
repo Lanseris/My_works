@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2020
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LFuveHW", "LFuveHW\LFuveHW.csproj", "{91C5C31B-C4FB-48A7-9F54-56B669C01D61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GB_Support", "GB_Support\GB_Support.csproj", "{3C22080F-D246-4550-934D-92B41E768CE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91C5C31B-C4FB-48A7-9F54-56B669C01D61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91C5C31B-C4FB-48A7-9F54-56B669C01D61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91C5C31B-C4FB-48A7-9F54-56B669C01D61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91C5C31B-C4FB-48A7-9F54-56B669C01D61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C22080F-D246-4550-934D-92B41E768CE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C22080F-D246-4550-934D-92B41E768CE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C22080F-D246-4550-934D-92B41E768CE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C22080F-D246-4550-934D-92B41E768CE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30E044A4-632B-4A2B-9D09-BBF4AB221ADD}
+	EndGlobalSection
+EndGlobal

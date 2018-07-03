@@ -1,0 +1,24 @@
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\bin\Debug\Game.exe.config
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\bin\Debug\Game.exe
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\bin\Debug\Game.pdb
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.GameForm.resources
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.exe
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\obj\Debug\Game.pdb
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\bin\Debug\LogicLib.dll
+C:\Users\Vasiliy\source\repos\BeliveOrNotBelive\Game\bin\Debug\LogicLib.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\bin\Debug\Game.exe.config
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\bin\Debug\Game.exe
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\bin\Debug\Game.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\bin\Debug\LogicLib.dll
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\bin\Debug\LogicLib.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.GameForm.resources
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.Properties.Resources.resources
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.csproj.GenerateResource.Cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.exe
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№8\Game\obj\Debug\Game.pdb
