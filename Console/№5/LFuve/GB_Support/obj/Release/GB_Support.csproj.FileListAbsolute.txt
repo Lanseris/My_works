@@ -1,0 +1,5 @@
+C:\Users\Vasiliy\source\repos\LFuveHW\GB_Support\bin\Release\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LFuveHW\GB_Support\bin\Release\GB_Support.pdb
+C:\Users\Vasiliy\source\repos\LFuveHW\GB_Support\obj\Release\GB_Support.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\LFuveHW\GB_Support\obj\Release\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LFuveHW\GB_Support\obj\Release\GB_Support.pdb

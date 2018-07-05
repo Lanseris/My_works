@@ -1,0 +1,20 @@
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\LSixHW.exe.config
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\LSixHW.exe
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\LSixHW.pdb
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\GB_Support.pdb
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\obj\Debug\LSixHW.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\obj\Debug\LSixHW.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\obj\Debug\LSixHW.exe
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\obj\Debug\LSixHW.pdb
+C:\Users\Vasiliy\source\repos\LSixHW\LSixHW\bin\Debug\Ку.txt
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\Ку.txt
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\LSixHW.exe.config
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\LSixHW.exe
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\LSixHW.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\GB_Support.dll
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\bin\Debug\GB_Support.pdb
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\obj\Debug\LSixHW.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\obj\Debug\LSixHW.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\obj\Debug\LSixHW.exe
+C:\Users\Vasiliy\Desktop\GB\ЗАКИНУТЬ В GIT\VS_lvl_1_HW\дз№6\LSixHW\obj\Debug\LSixHW.pdb

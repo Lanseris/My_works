@@ -1,0 +1,17 @@
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\bin\Debug\LFourHW.exe.config
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\bin\Debug\LFourHW.exe
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\bin\Debug\LFourHW.pdb
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\obj\Debug\LFourHW.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\obj\Debug\LFourHW.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\obj\Debug\LFourHW.exe
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\obj\Debug\LFourHW.pdb
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\bin\Debug\GB_Support.dll
+C:\Users\Vasiliy\source\repos\LFourHW\LFourHW\bin\Debug\GB_Support.pdb
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\bin\Debug\LFourHW.exe.config
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\bin\Debug\LFourHW.exe
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\bin\Debug\LFourHW.pdb
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\bin\Debug\GB_Support.dll
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\bin\Debug\GB_Support.pdb
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\obj\Debug\LFourHW.csprojResolveAssemblyReference.cache
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\obj\Debug\LFourHW.exe
+I:\Vasiliy\В гитхаб\дз№4\LFourHW\obj\Debug\LFourHW.pdb
