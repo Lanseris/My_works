@@ -1,5 +1,0 @@
-C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 1\2 занятие\LTwo\GB_support\bin\Debug\GB_support.dll
-C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 1\2 занятие\LTwo\GB_support\bin\Debug\GB_support.pdb
-C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 1\2 занятие\LTwo\GB_support\obj\Debug\Support.csproj.CoreCompileInputs.cache
-C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 1\2 занятие\LTwo\GB_support\obj\Debug\GB_support.dll
-C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 1\2 занятие\LTwo\GB_support\obj\Debug\GB_support.pdb

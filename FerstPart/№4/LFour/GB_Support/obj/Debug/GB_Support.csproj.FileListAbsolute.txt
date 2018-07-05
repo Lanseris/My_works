@@ -1,6 +1,0 @@
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\bin\Debug\GB_Support.dll
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\bin\Debug\GB_Support.pdb
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\obj\Debug\GB_Support.csproj.CoreCompileInputs.cache
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\obj\Debug\GB_Support.dll
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\obj\Debug\GB_Support.pdb
-C:\Users\Vasiliy\source\repos\LFourHW\GB_Support\obj\Debug\GB_Support.csprojResolveAssemblyReference.cache
