@@ -1,0 +1,60 @@
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+c:\users\vasiliy\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+c:\users\vasiliy\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+c:\users\vasiliy\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+c:\users\vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Debug\MyGame.StartGameForm.resources
+H:\GB\MyGame\MyGame\bin\Debug\MyGame.exe.config
+H:\GB\MyGame\MyGame\bin\Debug\MyGame.exe
+H:\GB\MyGame\MyGame\bin\Debug\MyGame.pdb
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.StartGameForm.resources
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.exe
+H:\GB\MyGame\MyGame\obj\Debug\MyGame.pdb
+N:\GB\MyGame\MyGame\bin\Debug\MyGame.exe.config
+N:\GB\MyGame\MyGame\obj\Debug\MyGame.exe
+N:\GB\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.StartGameForm.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\AsteroidsDestroingLoig.txt
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\AsteroidsDestroingLoig.txt
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.exe.config
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.exe
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Debug\MyGame.pdb
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.StartGameForm.resources
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.exe
+J:\GB\у Макса\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Debug\MyGame.pdb
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\bin\Debug\AsteroidsDestroingLoig.txt
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\bin\Debug\MyGame.exe.config
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\bin\Debug\MyGame.exe
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\bin\Debug\MyGame.pdb
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.Form1.resources
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.StartGameForm.resources
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.exe
+E:\Repositirys\WindowsForms\№3\MyGame\MyGame\obj\Debug\MyGame.pdb

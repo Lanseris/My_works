@@ -1,0 +1,21 @@
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\bin\Release\MyGame.exe.config
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\bin\Release\MyGame.exe
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\bin\Release\MyGame.pdb
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.Form1.resources
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.Properties.Resources.resources
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.StartGameForm.resources
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.csproj.GenerateResource.Cache
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.exe
+C:\Users\Vasiliy\source\repos\MyGame\MyGame\obj\Release\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Release\MyGame.exe.config
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.exe
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Release\AsteroidsDestroingLoig.txt
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Release\MyGame.exe
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\bin\Release\MyGame.pdb
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.Form1.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.Properties.Resources.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.StartGameForm.resources
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.csproj.GenerateResource.Cache
+C:\Users\VolhvPorechja\Desktop\Vasiliy\VS\ДЗ\3-ий урок\MyGame\MyGame\obj\Release\MyGame.csprojResolveAssemblyReference.cache

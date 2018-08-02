@@ -1,0 +1,17 @@
+Asteroid was destroided by MyGame.Ship in 410.239 coordinates Date: 02.08.2018 21:53:03.
+Asteroid was destroided by MyGame.Ship in 583.206 coordinates Date: 02.08.2018 21:53:03.
+Asteroid was destroided by MyGame.Ship in 207.458 coordinates Date: 02.08.2018 21:53:04.
+Asteroid was destroided by MyGame.Ship in 785.489 coordinates Date: 02.08.2018 21:53:06.
+Asteroid was destroided by MyGame.Ship in 220.71 coordinates Date: 02.08.2018 21:53:08.
+Asteroid was destroided by MyGame.Ship in 107.399 coordinates Date: 02.08.2018 21:53:10.
+Asteroid was destroided by MyGame.Ship in 84.465 coordinates Date: 02.08.2018 21:53:11.
+Asteroid was destroided by MyGame.Ship in 240.172 coordinates Date: 02.08.2018 21:53:15.
+Asteroid was destroided by MyGame.Ship in 363.178 coordinates Date: 02.08.2018 21:53:15.
+Asteroid was destroided by MyGame.Ship in 186.202 coordinates Date: 02.08.2018 21:53:16.
+Asteroid was destroided by MyGame.Ship in 201.278 coordinates Date: 02.08.2018 21:53:17.
+Asteroid was destroided by MyGame.Ship in 210.208 coordinates Date: 02.08.2018 21:53:29.
+Asteroid was destroided by MyGame.Ship in 75.262 coordinates Date: 02.08.2018 21:53:34.
+Asteroid was destroided by MyGame.Ship in 73.142 coordinates Date: 02.08.2018 21:53:36.
+Asteroid was destroided by MyGame.Ship in 77.208 coordinates Date: 02.08.2018 21:53:36.
+Asteroid was destroided by MyGame.Ship in 77.304 coordinates Date: 02.08.2018 21:53:37.
+Asteroid was destroided by MyGame.Ship in 70.210 coordinates Date: 02.08.2018 21:53:40.
