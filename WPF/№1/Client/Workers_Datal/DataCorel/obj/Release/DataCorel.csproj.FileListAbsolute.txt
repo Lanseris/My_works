@@ -1,0 +1,17 @@
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Release\DepartmentData.txt
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Release\EmploeersData.txt
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Release\DataCorel.exe.config
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Release\DataCorel.exe
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Release\DataCorel.pdb
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\obj\Release\DataCorel.exe
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\obj\Release\DataCorel.pdb
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\obj\Release\DataCorel.csprojResolveAssemblyReference.cache
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Release\DepartmentData.txt
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Release\EmploeersData.txt
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Release\DataCorel.exe.config
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Release\DataCorel.exe
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Release\DataCorel.pdb
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Release\DataCorel.csprojResolveAssemblyReference.cache
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Release\DataCorel.csproj.CoreCompileInputs.cache
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Release\DataCorel.exe
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Release\DataCorel.pdb

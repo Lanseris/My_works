@@ -1,0 +1,40 @@
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.dll.config
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.pdb
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\Newtonsoft.Json.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\Newtonsoft.Json.xml
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.xml
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Web.Http.resources.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.dll
+C:\Users\Vasiliy\source\repos\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.pdb
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.dll.config
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\WorkersDataAPI.pdb
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\Newtonsoft.Json.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Net.Http.Formatting.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.WebHost.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\Newtonsoft.Json.xml
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Net.Http.Formatting.xml
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.xml
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\System.Web.Http.WebHost.xml
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Web.Http.resources.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\API\WorkersDataAPI\WorkersDataAPI\obj\Debug\WorkersDataAPI.pdb

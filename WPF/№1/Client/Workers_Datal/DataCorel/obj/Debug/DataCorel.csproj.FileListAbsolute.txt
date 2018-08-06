@@ -1,0 +1,53 @@
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe.config
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\bin\Debug\DataCorel.pdb
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\obj\Debug\DataCorel.exe
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\obj\Debug\DataCorel.pdb
+c:\users\volhvporechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\obj\Debug\DataCorel.csprojResolveAssemblyReference.cache
+C:\Users\VolhvPorechja\documents\visual studio 2015\Projects\Workers_Datal\DataCorel\bin\Debug\EmploeersData.txt
+C:\Users\VolhvPorechja\Documents\Visual Studio 2015\Projects\Workers_Datal\DataCorel\bin\Debug\DepartmentData.txt
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DepartmentData.txt
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\EmploeersData.txt
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe.config
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.pdb
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.csprojResolveAssemblyReference.cache
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.csproj.CoreCompileInputs.cache
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.exe
+H:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.pdb
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.csprojResolveAssemblyReference.cache
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.csproj.CoreCompileInputs.cache
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.exe
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\obj\Debug\DataCorel.pdb
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DepartmentData.txt
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\EmploeersData.txt
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe.config
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\DataCorel.pdb
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Extensions.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Formatting.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Primitives.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Encoding.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Primitives.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+J:\GB\у Макса\Workers_Datal(последняя версия)\Workers_Datal\DataCorel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\DepartmentData.txt
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\EmploeersData.txt
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe.config
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\DataCorel.exe
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\DataCorel.pdb
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\obj\Debug\DataCorel.csprojResolveAssemblyReference.cache
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\obj\Debug\DataCorel.csproj.CoreCompileInputs.cache
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\obj\Debug\DataCorel.exe
+C:\Users\Vasiliy\Desktop\GB\VS\дз\Уровень 2\L8_HW\Client\Workers_Datal\DataCorel\obj\Debug\DataCorel.pdb

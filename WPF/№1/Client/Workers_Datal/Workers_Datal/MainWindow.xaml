@@ -1,0 +1,65 @@
+﻿<Window x:Class="Workers_Datal.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Workers_Datal"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="350" Width="525">
+    <Grid Background="Beige">
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="30"></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+        </Grid.RowDefinitions>
+
+        <Label Grid.Column="0" Grid.Row="0" HorizontalAlignment="Left" FontSize="18">Список отделов:</Label>
+        <Label Grid.Column="1" Grid.Row="0" HorizontalAlignment="Left" FontSize="18">Список Работников:</Label>
+        <ListView Name="DepListView"  
+                  Grid.Column="0" 
+                  Grid.Row="1" 
+                  Margin="5,5,5,5" 
+                  ItemsSource="{Binding DepList }" DisplayMemberPath="DepartmentName">
+            
+        </ListView>
+        <ListView Name="EmplListView" 
+                  Grid.Column="1" 
+                  Grid.Row="1" 
+                  Margin="5,5,5,5" 
+                  ItemsSource="{Binding EmpList, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="FerstName">
+            
+        </ListView>
+       
+        
+        <Button Name="AddDepBtn" Grid.Column="0" Grid.Row="2" HorizontalAlignment="Stretch" Margin="5" FontSize="17" >Добавить отдел</Button>
+        <Button Name="RemDepBtn" Grid.Column="0" Grid.Row="3" HorizontalAlignment="Stretch" Margin="5" FontSize="17" >Удалить отдел</Button>
+
+        <DockPanel Grid.Row="2" Grid.Column="1">
+              <Grid>
+                  <Grid.ColumnDefinitions>
+                    <ColumnDefinition></ColumnDefinition>
+                    <ColumnDefinition></ColumnDefinition>
+                </Grid.ColumnDefinitions>
+                  
+                <Button Name="AddEmpBtn" Grid.Column="0"  HorizontalAlignment="Stretch" Margin="5" FontSize="10" >Добавить работника</Button>
+                  
+                <Button Name="AddNewEmpBtn" Grid.Column="1"  HorizontalAlignment="Stretch" Margin="5" FontSize="10">
+                    <TextBlock TextAlignment="Center">
+                         Добавить нового<LineBreak/>работника
+                    </TextBlock>
+                </Button>
+                  
+            </Grid>
+        </DockPanel>
+        
+        <Button Name="RemEmpBtn" Grid.Column="1" Grid.Row="3" HorizontalAlignment="Stretch" Margin="5" FontSize="17">Удалить работника</Button>
+
+    </Grid>
+</Window>

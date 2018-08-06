@@ -1,0 +1,24 @@
+﻿<Window x:Class="Workers_Datal.AddExistingEmployeeWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Workers_Datal"
+        mc:Ignorable="d"
+        Title="AddExistingEmployeeWindow" Height="300" Width="300">
+    <Grid>
+        
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Label   Grid.Row="0" HorizontalAlignment="Center" FontSize="15">Добавление работника</Label>
+        <ComboBox Name="EmployeersCb" Grid.Row="2" HorizontalAlignment="Stretch" Width="200" Margin="5" ItemsSource="{Binding Par.DataCore_.EmploeersStore_.Employeers}" DisplayMemberPath="FerstName"   > </ComboBox>
+
+                <Button Name="AddEmpBt"  Grid.Row="4" HorizontalAlignment="Stretch" Width="150" Margin="5" FontSize="15" >Добавить работника</Button>
+    </Grid>
+</Window>
